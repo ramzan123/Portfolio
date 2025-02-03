@@ -15,7 +15,7 @@ Here are some examples of my UI/UX designs:
 <img src="https://raw.githubusercontent.com/ramzan123/Portfolio/6dcd35c38ab19e5c4bf449b7ebe66e51d7369172/app%20aplash%20screen.png" alt="Project 3 UI" width="400">
 <img src="https://raw.githubusercontent.com/ramzan123/Portfolio/710f5ea26986004323cf14b43c81b003e795160f/Home%20screen.png" alt="Project 3 UI" width="400">
 <img src="https://raw.githubusercontent.com/ramzan123/Portfolio/6dcd35c38ab19e5c4bf449b7ebe66e51d7369172/dashboard%20login%20screen.png" alt="Project 3 UI" width="400">
-<img src="https://raw.githubusercontent.com/ramzan123/Portfolio/6dcd35c38ab19e5c4bf449b7ebe66e51d7369172/dashboard%20login%20screen.png" alt="Project 3 UI" width="400">
+<img src="https://raw.githubusercontent.com/ramzan123/Portfolio/0c710718cdef8091f7bc4eb45d4a2bc966cf2ab5/dashboard%20screen.png" alt="Project 3 UI" width="400">
 <img src="https://raw.githubusercontent.com/ramzan123/Portfolio/6dcd35c38ab19e5c4bf449b7ebe66e51d7369172/website%20UI%20image.JPG" alt="Project 3 UI" width="400">
 
 </div>
