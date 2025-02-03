@@ -64,8 +64,10 @@
 Here are some random images and animations related to UI/UX design:
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="UI Design 1" style="border-radius: 10px; margin: 10px; animation: float 3s ease-in-out infinite;">
-  <img src="https://via.placeholder.com/150" alt="UI Design 2" style="border-radius: 10px; margin: 10px; animation: float 3s ease-in-out infinite;">
+ 
+  <img src=" https://github.com/ramzan123/Portfolio/blob/710f5ea26986004323cf14b43c81b003e795160f/app%20aplash%20screen.png/150" alt="UI Design 1" style="border-radius: 10px; margin: 10px; animation: float 3s ease-in-out infinite;">
+ 
+  <img src="https://github.com/ramzan123/Portfolio/blob/710f5ea26986004323cf14b43c81b003e795160f/Home%20screen.png/150" alt="UI Design 2" style="border-radius: 10px; margin: 10px; animation: float 3s ease-in-out infinite;">
   <img src="https://via.placeholder.com/150" alt="UI Design 3" style="border-radius: 10px; margin: 10px; animation: float 3s ease-in-out infinite;">
 </div>
 
